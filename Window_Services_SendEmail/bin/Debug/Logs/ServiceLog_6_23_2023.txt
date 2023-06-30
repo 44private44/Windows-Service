@@ -1,0 +1,14 @@
+Service is started at 6/23/2023 6:17:23 PM
+Service is stopped at 6/23/2023 6:18:33 PM
+Service is started at 6/23/2023 6:18:54 PM
+Service is recall at 6/23/2023 6:20:54 PM
+Email sent to sohammodi456@gmail.com at 6/23/2023 6:20:57 PM
+User: rushi, Birthdate: 6/23/2023 12:00:00 AM, Email: sohammodi456@gmail.com
+Email sent to goodjob3092001@gmail.com at 6/23/2023 6:21:01 PM
+User: kenvi, Birthdate: 6/23/2023 12:00:00 AM, Email: goodjob3092001@gmail.com
+Service is recall at 6/23/2023 6:22:54 PM
+Email sent to sohammodi456@gmail.com at 6/23/2023 6:22:57 PM
+User: rushi, Birthdate: 6/23/2023 12:00:00 AM, Email: sohammodi456@gmail.com
+Email sent to goodjob3092001@gmail.com at 6/23/2023 6:23:00 PM
+User: kenvi, Birthdate: 6/23/2023 12:00:00 AM, Email: goodjob3092001@gmail.com
+Service is stopped at 6/23/2023 6:23:36 PM
